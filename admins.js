@@ -10,9 +10,9 @@ function getAdmins(map) {
 
 const   usuarios = new Map()
 
-usuarios.set ('Luiz',  'Admin')
-usuarios.set ('Stephany',  'Admin')
-usuarios.set ('Jorge',  'User')
-usuarios.set ('Natalia',  'Admin')
+usuarios.set ('Gabriel',  'Admin')
+usuarios.set ('Nusa',  'Admin')
+usuarios.set ('Samuel',  'User')
+usuarios.set ('Rafael',  'Admin')
 
 console.log(getAdmins(usuarios))
