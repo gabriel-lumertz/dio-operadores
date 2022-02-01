@@ -7,3 +7,5 @@ function valoresUnicos(arr) {
 }
 
 console.log(valoresUnicos(meuArray))
+
+// teste de usuario
